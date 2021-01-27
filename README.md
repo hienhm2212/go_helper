@@ -1,1 +1,1 @@
-# go_helper
+# THIS IS USEFULL FUNC HELPER IN GOLANG
